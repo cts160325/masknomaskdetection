@@ -1,0 +1,5 @@
+Cài đặt:
+  py -m pip install -r requirements.txt
+
+Nếu máy có nhiều phiên bản Python trên Windows, có thể dùng:
+  py -3.10 -m pip install -r requirements.txt

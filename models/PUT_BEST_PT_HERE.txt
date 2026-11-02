@@ -1,0 +1,1 @@
+Sau khi train, chép best.pt vào thư mục này và đặt tên best.pt.

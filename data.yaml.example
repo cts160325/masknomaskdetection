@@ -1,0 +1,16 @@
+# Sao chép file này thành dataset/data.yaml rồi sửa đường dẫn cho đúng.
+# Thư mục images và labels phải có cấu trúc YOLO:
+# dataset/
+#   images/train, images/val, images/test
+#   labels/train, labels/val, labels/test
+
+path: ../dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: helmet
+  1: no_helmet
+  2: mask
+  3: no_mask
